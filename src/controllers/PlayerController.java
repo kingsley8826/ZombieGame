@@ -4,6 +4,8 @@ import modules.Bullet;
 import modules.GameModule;
 import modules.Player;
 import utils.Utils;
+import view.AnimationDrawer;
+import view.GameDrawer;
 import view.GameView;
 
 import java.awt.*;
@@ -29,25 +31,27 @@ public class PlayerController extends SingleController implements Contactable{
 
     private ControllerManager bulletControllers;
 
-    public PlayerController(Player gameModule, GameView gameView) {
-        super(gameModule, gameView);
-
+    public PlayerController(Player gameModule, GameDrawer gameDrawer) {
+        super(gameModule, gameDrawer);
     }
 
-    public PlayerController(GameView gameView) {
-        super(new Player(DEFAULT_LOCATION_X,DEFAULT_LOCATION_Y), gameView);
+    public PlayerController(GameDrawer gameDrawer) {
+        super(new Player(DEFAULT_LOCATION_X,DEFAULT_LOCATION_Y), gameDrawer);
         bulletControllers = new ControllerManager();
+        CollisionPool.instance.register(this);
     }
 
     public void keyPressed(KeyEvent e) {
         switch (e.getKeyCode()) {
             case KeyEvent.VK_RIGHT:
                 dx = SPEED;
-                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_right.png"));
+//                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_right_1.png"));
+//                gameDrawer = new AnimationDrawer("gamePlayer_right_", 1, 0);
                 break;
             case KeyEvent.VK_LEFT:
                 dx = -SPEED;
-                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_left.png"));
+//                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_left_1.png"));
+//                gameDrawer = new AnimationDrawer("gamePlayer_left_", 1, 0);
                 break;
             case KeyEvent.VK_UP:
                 if (jumpCount==-1)
@@ -77,7 +81,7 @@ public class PlayerController extends SingleController implements Contactable{
 
     private void createBullet() {
         BulletController bulletController = new BulletController(
-                new Bullet(gameModule.getX() + gameModule.getWidth(), gameModule.getY() + gameModule.getHeight()/3),
+                new Bullet(gameModule.getX(), gameModule.getY() + gameModule.getHeight()/3),
                 new GameView(Utils.loadImageFromResources("bullet.png"))
         );
         bulletControllers.add(bulletController);

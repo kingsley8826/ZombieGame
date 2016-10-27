@@ -60,9 +60,9 @@ public class GameModule {
         return new Rectangle(x, y, width, height);
     }
 
-    public boolean checkCollideWith(GameModule gameObject) {
+    public boolean checkCollideWith(GameModule gameModule) {
         Rectangle rect1 = this.getRect();
-        Rectangle rect2 = gameObject.getRect();
+        Rectangle rect2 = gameModule.getRect();
         return rect1.intersects(rect2);
     }
 }

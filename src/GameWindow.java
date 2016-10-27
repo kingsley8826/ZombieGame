@@ -11,6 +11,7 @@ import controllers.PlayerController;
 import controllers.ZombieControllerManager;
 import modules.Player;
 import utils.*;
+import view.AnimationDrawer;
 import view.GameView;
 
 
@@ -35,7 +36,7 @@ public class GameWindow extends Frame implements Runnable {
         backBufferImage = new BufferedImage(backgroundWith,backgroundHeight,BufferedImage.TYPE_INT_ARGB);
 
         playerController = new PlayerController(
-                                new GameView(Utils.loadImageFromResources("gamePlayer_right.png"))
+                                new AnimationDrawer("gamePlayer_left_", 1, 0)
                                 );
         zombieControllerManager = new ZombieControllerManager();
 
@@ -113,10 +114,10 @@ public class GameWindow extends Frame implements Runnable {
                                         GameConfig.instance.getBackgroundHeight(),
                                         null);
 
-//        backbufferedGraphics.drawImage(backgroundImage, -dx, 0,
-//                                    GameConfig.instance.getBackgroundWidth(),
-//                                    GameConfig.instance.getBackgroundHeight(),
-//                                    null);
+        backbufferedGraphics.drawImage(backgroundImage, -dx, 0,
+                                    GameConfig.instance.getBackgroundWidth(),
+                                    GameConfig.instance.getBackgroundHeight(),
+                                    null);
 
         controllerManager.draw(backbufferedGraphics);
 
@@ -136,9 +137,9 @@ public class GameWindow extends Frame implements Runnable {
             try {
                 Thread.sleep(GameConfig.instance.getThreadDelayInMiliseconds());
                 controllerManager.run();
-//                if (playerController.getGameModule().getX() > GameConfig.instance.getBackgroundWidth()/2) {
-//                    GameWindow.dx = playerController.getGameModule().getX() - GameConfig.instance.getBackgroundWidth()/2;
-//                }
+                if (playerController.getGameModule().getX() > GameConfig.instance.getBackgroundWidth()/2) {
+                    GameWindow.dx = playerController.getGameModule().getX() - GameConfig.instance.getBackgroundWidth()/2;
+                }
                 repaint();
             } catch (InterruptedException e) {
                 e.printStackTrace();

@@ -24,10 +24,10 @@ public class CollisionPool implements BaseController {
                 Contactable contactablei = contactableVector.get(i);
                 Contactable contactablej = contactableVector.get(j);
 
-                GameModule gameObjecti = contactablei.getGameModule();
-                GameModule gameObjectj = contactablej.getGameModule();
+                GameModule gameModulei = contactablei.getGameModule();
+                GameModule gameModulej = contactablej.getGameModule();
 
-                if (gameObjecti.checkCollideWith(gameObjectj)) {
+                if (gameModulei.checkCollideWith(gameModulej)) {
                     contactablei.onCollide(contactablej);
                     contactablej.onCollide(contactablei);
                 }
@@ -47,4 +47,10 @@ public class CollisionPool implements BaseController {
     public void draw(Graphics graphics) {
 
     }
+
+    public void register(Contactable contactable) {
+        contactableVector.add(contactable);
+    }
+
+    public static final CollisionPool instance = new CollisionPool();
 }

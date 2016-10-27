@@ -22,19 +22,21 @@ public class ControllerManager implements BaseController{
 
     @Override
     public void run() {
-        Iterator<BaseController> iterator = baseControllers.iterator();
-        while(iterator.hasNext()) {
-            BaseController baseController = iterator.next();
-            if (baseController instanceof SingleController) {
-                GameModule gameModule =
-                        ((SingleController) baseController).getGameModule();
-                if(!gameModule.isAlive()) {
-                    iterator.remove();
+        synchronized (baseControllers) {
+            Iterator<BaseController> iterator = baseControllers.iterator();
+            while (iterator.hasNext()) {
+                BaseController baseController = iterator.next();
+                if (baseController instanceof SingleController) {
+                    GameModule gameModule =
+                            ((SingleController) baseController).getGameModule();
+                    if (!gameModule.isAlive()) {
+                        iterator.remove();
+                    } else {
+                        baseController.run();
+                    }
                 } else {
-                    baseController.run();
+                    baseController.run(); // Manager
                 }
-            } else {
-                baseController.run(); // Manager
             }
         }
     }
