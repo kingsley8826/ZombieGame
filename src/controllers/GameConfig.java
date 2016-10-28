@@ -6,7 +6,7 @@ import modules.GameModule;
  * Created by Nghia on 10/23/2016.
  */
 public class GameConfig {
-    public static final int DEFAULT_BACKGROUND_WIDTH = 1200;
+    public static final int DEFAULT_BACKGROUND_WIDTH = 1000;
     public static final int DEFAULT_BACKGROUND_HEIGHT = 600;
     public static final int DEFAUL_DELAY = 17;
     public static final int GRAVITY_ACCELEBRATION = 5;
@@ -16,13 +16,11 @@ public class GameConfig {
     private int screenHeight;
 
 
-
     private GameConfig(int threadDelayInMiliseconds, int screenWidth, int screenHeight) {
         this.threadDelayInMiliseconds = threadDelayInMiliseconds;
         this.screenWidth = screenWidth;
         this.screenHeight = screenHeight;
     }
-
 
     public int getBackgroundWidth(){
         return screenWidth;
@@ -38,7 +36,6 @@ public class GameConfig {
     public int getGravityAccelebration(){
         return GRAVITY_ACCELEBRATION;
     }
-
 
 
     public double getSeconds(int count) {

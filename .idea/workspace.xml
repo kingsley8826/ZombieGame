@@ -1,119 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df8d1b47-3829-4da3-bae8-e6c26f5eb333" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/PlayerController.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/PlayerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GameWindow.java" afterPath="$PROJECT_DIR$/src/GameWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controllers/PlayerController.java" afterPath="$PROJECT_DIR$/src/controllers/PlayerController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_5.png" />
-    </list>
+    <list default="true" id="df8d1b47-3829-4da3-bae8-e6c26f5eb333" name="Default" comment="" />
     <ignored path="ZombieSlayer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -124,7 +12,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -134,77 +21,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BulletController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/BulletController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-              <folding />
-            </state>
+      <file leaf-file-name="Idle_6.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_6.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-              <folding />
-            </state>
+      <file leaf-file-name="Idle_4.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_4.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZombieController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/ZombieController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding />
-            </state>
+      <file leaf-file-name="Idle_5.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_5.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zombie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/Zombie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="Idle_3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="Idle_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GameWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
-              <folding />
-            </state>
+      <file leaf-file-name="Idle_7.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_7.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Idle_10.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_10.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jump_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/player_left/Jump_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/modules/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#269#270#0" expanded="true" />
                 <element signature="e#322#323#0" expanded="true" />
@@ -213,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZombieControllerManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/ZombieControllerManager.java">
+      <file leaf-file-name="Zombie.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/modules/Zombie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -256,27 +133,27 @@
         <option value="$PROJECT_DIR$/src/modules/Bullet.java" />
         <option value="$PROJECT_DIR$/src/modules/Player.java" />
         <option value="$PROJECT_DIR$/src/view/GameDrawer.java" />
-        <option value="$PROJECT_DIR$/src/view/AnimationDrawer.java" />
-        <option value="$PROJECT_DIR$/src/controllers/GameConfig.java" />
         <option value="$PROJECT_DIR$/src/controllers/SingleController.java" />
         <option value="$PROJECT_DIR$/src/modules/GameModule.java" />
         <option value="$PROJECT_DIR$/src/controllers/BulletController.java" />
         <option value="$PROJECT_DIR$/src/controllers/ControllerManager.java" />
         <option value="$PROJECT_DIR$/src/controllers/CollisionPool.java" />
         <option value="$PROJECT_DIR$/src/view/GameView.java" />
-        <option value="$PROJECT_DIR$/src/controllers/ZombieControllerManager.java" />
         <option value="$PROJECT_DIR$/src/controllers/ZombieController.java" />
         <option value="$PROJECT_DIR$/src/modules/Zombie.java" />
         <option value="$PROJECT_DIR$/src/GameWindow.java" />
         <option value="$PROJECT_DIR$/src/controllers/PlayerController.java" />
+        <option value="$PROJECT_DIR$/src/controllers/ZombieControllerManager.java" />
+        <option value="$PROJECT_DIR$/src/controllers/GameConfig.java" />
+        <option value="$PROJECT_DIR$/src/view/AnimationDrawer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1376" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -303,33 +180,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -339,11 +216,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -357,11 +234,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -375,11 +252,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -393,11 +270,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -411,11 +288,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -425,29 +302,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="player_right" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZombieGame" />
+              <option name="myItemId" value="minihackGitub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -461,11 +320,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/CI-gen6/partner/-self-modified-Android6-master/Session8" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -504,8 +363,13 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -524,8 +388,13 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -734,7 +603,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -744,17 +613,17 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264095" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24705882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -785,85 +654,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers/SingleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding>
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/GameModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/GameModuleWithHP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Bullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#284#285#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers/BulletController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="118" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/view/GameView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#234#235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -888,10 +685,10 @@
         <state relative-caret-position="119">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding>
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -960,11 +757,7 @@
     <entry file="file://$PROJECT_DIR$/src/view/PlayerView.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/imageio/ImageIO.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/Graphics.java" />
-    <entry file="file://$PROJECT_DIR$/resources/gamePlayer_left_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/gamePlayer_left_1.png" />
     <entry file="file://$PROJECT_DIR$/resources/background.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -987,24 +780,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/zombie_type_11.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers/GameConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-          <folding>
-            <element signature="e#1273#1274#0" expanded="false" />
-            <element signature="e#1320#1321#0" expanded="false" />
-            <element signature="e#1380#1381#0" expanded="false" />
-            <element signature="e#1436#1437#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/zombie_type_11.png" />
     <entry file="file://$PROJECT_DIR$/src/controllers/Contactable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1025,8 +801,8 @@
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1035,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,10 +819,10 @@
         <state relative-caret-position="442">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="28" />
           <folding>
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
+            <element signature="e#816#817#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1057,8 +832,8 @@
         <state relative-caret-position="272">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="33" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#234#235#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1075,15 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/AnimationDrawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,32 +858,16 @@
         <state relative-caret-position="731">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <element signature="e#1436#1437#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="false" />
+            <element signature="e#1486#1487#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/BulletController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers/ZombieControllerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers/ZombieController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="442">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1127,35 +877,13 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Zombie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#610#611#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1177,16 +905,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
+        <state relative-caret-position="1768">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <marker date="1477665980718" expanded="true" signature="4211:4228" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/ZombieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/ZombieControllerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/GameConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <element signature="e#1377#1378#0" expanded="false" />
+            <element signature="e#1433#1434#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
+        <state relative-caret-position="-621">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/AnimationDrawer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Jump_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/Zombie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>

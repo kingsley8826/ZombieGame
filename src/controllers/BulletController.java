@@ -28,5 +28,9 @@ public class BulletController extends SingleController implements Contactable {
             ((ZombieController) contactable).destroy();
             System.out.println("die");
         }
+        else if(contactable instanceof YellowZombieController){
+            ((YellowZombieController) contactable).getHit(1);
+            this.destroy();
+        }
     }
 }

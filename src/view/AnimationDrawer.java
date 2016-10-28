@@ -51,7 +51,7 @@ public class AnimationDrawer extends GameDrawer {
                 gameModule.getHeight(),
                 null);
         count++;
-        if(GameConfig.instance.getMiliseconds(count) > 100) {
+        if(GameConfig.instance.getMiliseconds(count) > 250) {
             count = 0;
             index++;
             if (index >= imageVector.size()) {

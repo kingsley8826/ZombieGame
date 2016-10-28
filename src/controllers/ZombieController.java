@@ -4,15 +4,12 @@ import modules.GameModule;
 import modules.Zombie;
 import view.AnimationDrawer;
 import view.GameDrawer;
-import view.GameView;
-
-import java.awt.*;
 
 /**
  * Created by Admin on 10/24/2016.
  */
 public class ZombieController extends SingleController implements Contactable{
-    public static final int DEFAULT_LOCATION_X = 0;
+    public static final int DEFAULT_LOCATION_LEFTX = 0;
     public static final int DEFAULT_LOCATION_Y = GameConfig.instance.getBackgroundHeight()*2/3;
 
     private int dx;
@@ -33,7 +30,7 @@ public class ZombieController extends SingleController implements Contactable{
 
     public static ZombieController createZombie(){
         return new ZombieController(
-                new Zombie(DEFAULT_LOCATION_X, DEFAULT_LOCATION_Y),
+                new Zombie(DEFAULT_LOCATION_LEFTX, DEFAULT_LOCATION_Y,1),
                 new AnimationDrawer("zombie_female/Walk_", 10, 0)
         );
     }

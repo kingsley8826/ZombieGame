@@ -38,7 +38,7 @@ public class PlayerController extends SingleController implements Contactable{
     }
 
 //    public PlayerController(GameDrawer gameDrawer) {
-//        super(new Player(DEFAULT_LOCATION_X,DEFAULT_LOCATION_Y), gameDrawer);
+//        super(new Player(DEFAULT_LOCATION_LEFTX,DEFAULT_LOCATION_Y), gameDrawer);
 //        bulletControllers = new ControllerManager();
 //        CollisionPool.instance.register(this);
 //    }
