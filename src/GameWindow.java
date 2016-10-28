@@ -110,10 +110,10 @@ public class GameWindow extends Frame implements Runnable {
                                         GameConfig.instance.getBackgroundHeight(),
                                         null);
 
-        backbufferedGraphics.drawImage(backgroundImage, -dx, 0,
-                                    GameConfig.instance.getBackgroundWidth(),
-                                    GameConfig.instance.getBackgroundHeight(),
-                                    null);
+//        backbufferedGraphics.drawImage(backgroundImage, -dx, 0,
+//                                    GameConfig.instance.getBackgroundWidth(),
+//                                    GameConfig.instance.getBackgroundHeight(),
+//                                    null);
 
         controllerManager.draw(backbufferedGraphics);
 

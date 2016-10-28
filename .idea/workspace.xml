@@ -2,157 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df8d1b47-3829-4da3-bae8-e6c26f5eb333" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Dead_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Idle_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Jump_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Melee_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Run_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Shoot_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Shoot_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Shoot_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Slide_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Slide_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Slide_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Slide_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player/Slide_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Attack_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Dead_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (10).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (11).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (12).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (13).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (14).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (15).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (4).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (5).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (6).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (7).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (8).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Idle (9).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/zombie_female/Walk_9.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/1945-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/Regular_Zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/Zombie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bomb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bullet-double.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bullet-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bullet-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bullet-round.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/bullet-single.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/captainsuit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy-green-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy-green-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy-green-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_white_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_white_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_yellow_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_yellow_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/enemy_plane_yellow_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/explosion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/gamePlayer_left_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/gamePlayer_right_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/island-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/island.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/mine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/plane1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/plane2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/plane3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/plane4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/power-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombie_type_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/zombieee.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow$1.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow$2.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Dead_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Idle_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Jump_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Melee_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Run_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Shoot_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/player_left/Slide_5.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/GameWindow.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/PlayerController.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/PlayerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/ZombieController.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/ZombieController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/ZombieControllerManager.class" afterPath="$PROJECT_DIR$/out/production/ZombieSlayer/controllers/ZombieControllerManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GameWindow.java" afterPath="$PROJECT_DIR$/src/GameWindow.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controllers/PlayerController.java" afterPath="$PROJECT_DIR$/src/controllers/PlayerController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controllers/ZombieController.java" afterPath="$PROJECT_DIR$/src/controllers/ZombieController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/controllers/ZombieControllerManager.java" afterPath="$PROJECT_DIR$/src/controllers/ZombieControllerManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/modules/Zombie.java" afterPath="$PROJECT_DIR$/src/modules/Zombie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Dead_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Dead_9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Idle_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Idle_9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_10.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Jump_9.png" afterPath="$PROJECT_DIR$/resources/player_right/Jump_9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Melee_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Melee_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_6.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_7.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Run_8.png" afterPath="$PROJECT_DIR$/resources/player_right/Run_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Shoot_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Shoot_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_1.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_2.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_3.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_4.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/player/Slide_5.png" afterPath="$PROJECT_DIR$/resources/player_right/Slide_5.png" />
     </list>
     <ignored path="ZombieSlayer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,8 +147,8 @@
       <file leaf-file-name="PlayerController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+            <state relative-caret-position="437">
+              <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -217,29 +177,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CollisionPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers/CollisionPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="e#1436#1437#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimationDrawer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/AnimationDrawer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -256,8 +193,8 @@
       <file leaf-file-name="GameWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-430">
-              <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+            <state relative-caret-position="369">
+              <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -327,10 +264,10 @@
         <option value="$PROJECT_DIR$/src/controllers/ControllerManager.java" />
         <option value="$PROJECT_DIR$/src/controllers/CollisionPool.java" />
         <option value="$PROJECT_DIR$/src/view/GameView.java" />
-        <option value="$PROJECT_DIR$/src/GameWindow.java" />
         <option value="$PROJECT_DIR$/src/controllers/ZombieControllerManager.java" />
         <option value="$PROJECT_DIR$/src/controllers/ZombieController.java" />
         <option value="$PROJECT_DIR$/src/modules/Zombie.java" />
+        <option value="$PROJECT_DIR$/src/GameWindow.java" />
         <option value="$PROJECT_DIR$/src/controllers/PlayerController.java" />
       </list>
     </option>
@@ -500,7 +437,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zombie_female" />
+              <option name="myItemId" value="player_right" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -518,7 +455,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="player" />
+              <option name="myItemId" value="player_left" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -808,7 +745,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -848,35 +785,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/modules/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/GameView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Zombie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1252,18 +1160,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Run_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_left/Idle_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/player_right/Idle_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GameWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+        <state relative-caret-position="369">
+          <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/controllers/PlayerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="129" column="41" selection-start-line="129" selection-start-column="41" selection-end-line="129" selection-end-column="41" />
+        <state relative-caret-position="437">
+          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
           <folding />
         </state>
       </provider>

@@ -47,18 +47,16 @@ public class PlayerController extends SingleController implements Contactable{
         switch (e.getKeyCode()) {
             case KeyEvent.VK_RIGHT:
                 dx = SPEED;
-//                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_right_1.png"));
-//                gameDrawer = new AnimationDrawer("gamePlayer_right_", 1, 0);
+                gameDrawer = new AnimationDrawer("player_right/Run_", 8, 0);
                 break;
             case KeyEvent.VK_LEFT:
                 dx = -SPEED;
-//                gameView = new GameView(Utils.loadImageFromResources("gamePlayer_left_1.png"));
-//                gameDrawer = new AnimationDrawer("gamePlayer_left_", 1, 0);
+                gameDrawer = new AnimationDrawer("player_left/Run_", 8, 0);
                 break;
             case KeyEvent.VK_UP:
                 if (jumpCount==-1)
                     jump();
-                gameDrawer = new AnimationDrawer("player/Jump_", 10, 0);
+                gameDrawer = new AnimationDrawer("player_left/Jump_", 10, 0);
                 break;
             case KeyEvent.VK_DOWN:
                 break;
@@ -71,11 +69,16 @@ public class PlayerController extends SingleController implements Contactable{
 
         switch (e.getKeyCode()) {
             case KeyEvent.VK_RIGHT:
+                dx = 0;
+                gameDrawer = new AnimationDrawer("player_right/Idle_", 1, 0);
             case KeyEvent.VK_LEFT:
                 dx = 0;
+                gameDrawer = new AnimationDrawer("player_left/Idle_", 1, 0);
+
                 break;
             case KeyEvent.VK_UP:
             case KeyEvent.VK_DOWN:
+                gameDrawer = new AnimationDrawer("player_left/Idle_", 1, 0);
 //                dy = 0;
                 break;
 
@@ -132,7 +135,7 @@ public class PlayerController extends SingleController implements Contactable{
 
     public final static PlayerController createPlayer = new PlayerController(
             new Player(DEFAULT_LOCATION_X, DEFAULT_LOCATION_Y),
-            new AnimationDrawer("player/Idle_", 1, 0)
+            new AnimationDrawer("player_left/Idle_", 1, 0)
     );
 
     @Override
