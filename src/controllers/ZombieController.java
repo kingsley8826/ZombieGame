@@ -34,7 +34,7 @@ public class ZombieController extends SingleController implements Contactable{
     public static ZombieController createZombie(){
         return new ZombieController(
                 new Zombie(DEFAULT_LOCATION_X, DEFAULT_LOCATION_Y),
-                new AnimationDrawer("zombie_type_", 9, 10)
+                new AnimationDrawer("zombie_female/Walk_", 10, 0)
         );
     }
 

@@ -33,13 +33,15 @@ public class PlayerController extends SingleController implements Contactable{
 
     public PlayerController(Player gameModule, GameDrawer gameDrawer) {
         super(gameModule, gameDrawer);
-    }
-
-    public PlayerController(GameDrawer gameDrawer) {
-        super(new Player(DEFAULT_LOCATION_X,DEFAULT_LOCATION_Y), gameDrawer);
         bulletControllers = new ControllerManager();
         CollisionPool.instance.register(this);
     }
+
+//    public PlayerController(GameDrawer gameDrawer) {
+//        super(new Player(DEFAULT_LOCATION_X,DEFAULT_LOCATION_Y), gameDrawer);
+//        bulletControllers = new ControllerManager();
+//        CollisionPool.instance.register(this);
+//    }
 
     public void keyPressed(KeyEvent e) {
         switch (e.getKeyCode()) {
@@ -56,6 +58,7 @@ public class PlayerController extends SingleController implements Contactable{
             case KeyEvent.VK_UP:
                 if (jumpCount==-1)
                     jump();
+                gameDrawer = new AnimationDrawer("player/Jump_", 10, 0);
                 break;
             case KeyEvent.VK_DOWN:
                 break;
@@ -126,6 +129,11 @@ public class PlayerController extends SingleController implements Contactable{
         super.draw(graphics);
         bulletControllers.draw(graphics);
     }
+
+    public final static PlayerController createPlayer = new PlayerController(
+            new Player(DEFAULT_LOCATION_X, DEFAULT_LOCATION_Y),
+            new AnimationDrawer("player/Idle_", 1, 0)
+    );
 
     @Override
     public void onCollide(Contactable contactable) {

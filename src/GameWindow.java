@@ -5,10 +5,7 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.awt.image.BufferedImage;
 
-import controllers.ControllerManager;
-import controllers.GameConfig;
-import controllers.PlayerController;
-import controllers.ZombieControllerManager;
+import controllers.*;
 import modules.Player;
 import utils.*;
 import view.AnimationDrawer;
@@ -35,13 +32,12 @@ public class GameWindow extends Frame implements Runnable {
         backgroundImage = Utils.loadImageFromResources("background.png");
         backBufferImage = new BufferedImage(backgroundWith,backgroundHeight,BufferedImage.TYPE_INT_ARGB);
 
-        playerController = new PlayerController(
-                                new AnimationDrawer("gamePlayer_left_", 1, 0)
-                                );
+        playerController = PlayerController.createPlayer;
         zombieControllerManager = new ZombieControllerManager();
 
         controllerManager.add(playerController);
         controllerManager.add(zombieControllerManager);
+        controllerManager.add(CollisionPool.instance);
 
 
         this.setVisible(true);
