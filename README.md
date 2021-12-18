@@ -1,6 +1,8 @@
 # ZombieGame
 A funny zombie game from F4 team !
 
+Download at: https://drive.google.com/file/d/1gKXhoEzRWlbTBKaGiFAsum8rlRB6drvC/view
+
 
 Demo Video:
 
